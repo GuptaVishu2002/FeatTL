@@ -1,6 +1,6 @@
-# Pre-Activation Feature Extraction based Transfer Learning
+# Pre-Activation Feature Extraction based Representation Learning
 
-This repository contains the code for performing pre-activation feature extraction based transfer learning to predict materials properties using elemental fractions (EF), physical attributes (PA), or extracted features as the model input. The code provides the following functions:
+This repository contains the code for performing pre-activation feature extraction based representation learning to predict materials properties using elemental fractions (EF), physical attributes (PA), or extracted features as the model input. The code provides the following functions:
 
 * Train an ElemNet model on a given dataset.
 * Use a pre-trained ElemNet model to perform transfer learning on a given target dataset.
